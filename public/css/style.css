@@ -1,0 +1,19 @@
+#header {
+    padding-left: 0px;
+}
+#add_cheque {
+    padding-left: 15px;
+}
+#approve {
+    background-color: #5cb85c;
+    color: white;
+}
+#rad {
+    float: center;
+}
+.form-control {
+    margin: 0px;
+}
+.btn {
+    margin-right: 0px;
+}
